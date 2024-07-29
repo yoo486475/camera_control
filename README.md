@@ -1,2 +1,2 @@
-# camera_con
-camera control for baseball
+# Camera_control
+Camera control for baseball.
